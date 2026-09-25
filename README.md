@@ -126,6 +126,29 @@ VisA is distributed under the **Creative Commons Attribution 4.0 International (
 
 Presentation graphics and layouts used in the SurfaceGuard demonstration were modified for this project.
 
+## Work With Me
+
+I help companies evaluate whether AI-based visual inspection is practical for their products before committing to a full production deployment.
+
+SurfaceGuard AI can be adapted into a client-specific pilot using representative product images and a defined inspection setup.
+
+Typical pilot work can include:
+
+- Normal-reference calibration
+- PASS / REVIEW inspection workflows
+- Visual anomaly scoring
+- Anomaly evidence maps
+- Batch image inspection
+- False-positive and false-negative analysis
+- Validation dashboards and technical reporting
+- Deployment and integration recommendations
+
+### Start a Fixed-Price Pilot on Upwork
+
+[View the SurfaceGuard AI Visual Inspection Pilot on Upwork](https://www.upwork.com/services/product/development-it-a-custom-ai-visual-inspection-pilot-for-your-product-images-2103506163653531879?ref=project_share)
+
+For custom requirements, manufacturing use cases, or collaboration inquiries, feel free to contact me through Upwork.
+
 ## Author
 
 **Marwan Al Zawahra**  
