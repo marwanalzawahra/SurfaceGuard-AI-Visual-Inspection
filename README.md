@@ -11,7 +11,7 @@ Instead of requiring a large defect-classification dataset, the system builds a 
 ![SurfaceGuard Detected Anomaly](SurfaceGuard_Upwork_01_Detected_Anomaly_1200x800.png)
 
 ### System Dashboard
-![SurfaceGuard Dashboard](SurfaceGuard_Upwork_00_Dashboard_1200x800.png)
+![SurfaceGuard Dashboard](SurfaceGuard_Upwork_00_Dashboard_1200x800_FIXED.png)
 
 ### Validation Results
 ![SurfaceGuard Validation](SurfaceGuard_Upwork_02_Validation_1200x800.png)
